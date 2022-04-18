@@ -27,7 +27,7 @@ body {
 .button-1, .button-2 {
     text-align: center;
     color: #fff;
-    background: black;
+    background: #000;
     border-radius: 30px;
     padding: 10px 0px 10px 0px;
     align-items: center;
