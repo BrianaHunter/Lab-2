@@ -91,6 +91,7 @@ body {
 
     .container {
         position: relative;
+        padding-top: 90px;
     }
 
     .button-1 {
@@ -100,7 +101,7 @@ body {
     }
 
     #hireUs {
-        top: -30%;
+        top: -21%;
         left: 90%;
     }
 
